@@ -1,0 +1,14 @@
+C:\Users\Seco\RiderProjects\Tema1GDSC\Tema1GDSC\bin\Debug\net7.0\Tema1GDSC.exe
+C:\Users\Seco\RiderProjects\Tema1GDSC\Tema1GDSC\bin\Debug\net7.0\Tema1GDSC.deps.json
+C:\Users\Seco\RiderProjects\Tema1GDSC\Tema1GDSC\bin\Debug\net7.0\Tema1GDSC.runtimeconfig.json
+C:\Users\Seco\RiderProjects\Tema1GDSC\Tema1GDSC\bin\Debug\net7.0\Tema1GDSC.dll
+C:\Users\Seco\RiderProjects\Tema1GDSC\Tema1GDSC\bin\Debug\net7.0\Tema1GDSC.pdb
+C:\Users\Seco\RiderProjects\Tema1GDSC\Tema1GDSC\obj\Debug\net7.0\Tema1GDSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seco\RiderProjects\Tema1GDSC\Tema1GDSC\obj\Debug\net7.0\Tema1GDSC.AssemblyInfoInputs.cache
+C:\Users\Seco\RiderProjects\Tema1GDSC\Tema1GDSC\obj\Debug\net7.0\Tema1GDSC.AssemblyInfo.cs
+C:\Users\Seco\RiderProjects\Tema1GDSC\Tema1GDSC\obj\Debug\net7.0\Tema1GDSC.csproj.CoreCompileInputs.cache
+C:\Users\Seco\RiderProjects\Tema1GDSC\Tema1GDSC\obj\Debug\net7.0\Tema1GDSC.dll
+C:\Users\Seco\RiderProjects\Tema1GDSC\Tema1GDSC\obj\Debug\net7.0\refint\Tema1GDSC.dll
+C:\Users\Seco\RiderProjects\Tema1GDSC\Tema1GDSC\obj\Debug\net7.0\Tema1GDSC.pdb
+C:\Users\Seco\RiderProjects\Tema1GDSC\Tema1GDSC\obj\Debug\net7.0\Tema1GDSC.genruntimeconfig.cache
+C:\Users\Seco\RiderProjects\Tema1GDSC\Tema1GDSC\obj\Debug\net7.0\ref\Tema1GDSC.dll
